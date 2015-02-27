@@ -1,0 +1,14 @@
+{
+  "name": "GValidate",
+  "description": "validate for Node.JS",
+  "version": "1.0.0",
+  "author": {
+    "name": "gaohaifeng",
+    "email": "zgaohaifeng@qq.com"
+  },
+  "keywords": [
+    "validate"
+  ],
+  "main": "index",
+  "license": "MIT"
+}
