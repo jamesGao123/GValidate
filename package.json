@@ -1,14 +1,19 @@
 {
-  "name": "GValidate",
+  "name": "gvalidate",
   "description": "validate for Node.JS",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": {
-    "name": "gaohaifeng",
+    "name": "zgaohaifeng",
     "email": "zgaohaifeng@qq.com"
   },
   "keywords": [
     "validate"
   ],
   "main": "index",
-  "license": "MIT"
+  "license": "MIT",
+  "readme": "# GValidate\nGValidate 用于过滤传给node端的参数。",
+  "readmeFilename": "README.md",
+  "_id": "gvalidate@1.0.1",
+  "_shasum": "5f4c894985c1819578762debd9fbe2f628a8fbfb",
+  "_from": "gvalidate@^1.0.1"
 }
